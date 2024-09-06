@@ -6,6 +6,14 @@
   <a href="mailto:marciohxd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+div align="center">
+ <a href="https://github.com/MarcioEverton">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcioEverton&show_icons=true&theme=dracula"</a>
+  <a href="https://github.com/MarcioEverton">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioEverton&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
 
 <div align="center" align="top"><br>
 <h1 align="center">Estou estudando</h1>
