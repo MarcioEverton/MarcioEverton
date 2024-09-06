@@ -23,8 +23,3 @@
 </div><br>
 
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/MarcioEverton/MarcioEverton/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
