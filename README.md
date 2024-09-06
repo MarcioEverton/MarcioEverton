@@ -1,19 +1,11 @@
 <div >
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/marcio-everton-927581161/"><i>Marcio Everton</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? me chamo <a href="https://www.linkedin.com/in/marcio-everton-927581161/"><i>Marcio Everton</i></a> 😃️</h1>
   <div align="center">
   
   <a href="https://www.linkedin.com/in/marcio-everton-927581161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:marciohxd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
-<div align="center">
- <a href="https://github.com/MarcioEverton">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcioEverton&show_icons=true&theme=dracula"</a>
-  <a href="https://github.com/MarcioEverton">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioEverton&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 <div align="center" align="top"><br>
 <h1 align="center">Estou estudando</h1>
