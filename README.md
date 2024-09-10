@@ -1,5 +1,5 @@
 <div >
-  <h1 align="center">Oi Tudo bem? Sejam Bem-Vindo(a)s</a> 😃️</h1>
+  <h1 align="center">Sejam Bem-Vindo(a)s</a> 😃️</h1>
   <div align="center">
   <h2 align="center">Meus contatos</h2>
   <a href="https://www.linkedin.com/in/marcio-everton-927581161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
